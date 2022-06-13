@@ -8,7 +8,7 @@ public class ServletTest {
 
 	@Test
 	public void test() {
-		assertEquals(true, true);
+		assertEquals(false, true);
 	}
 
 }
